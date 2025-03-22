@@ -1,0 +1,11 @@
+Práctica 06.
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+1. Descomprimir la carpeta "practica06-u20210309-Jordi.zip".
+2. Abrir la carpeta extraída en Visual Studio Code.
+3. Ingresar en el navegador a la dirección "localhost/practica06-u20210309-Jordi".
+4. Proceder a revisar el ejercicio.
+
+URL de la carpeta en el repositorio de GitHub:
+https://github.com/Jordi2010/Practicas_WebII/tree/74a53e16117dbc20b8eb749fcc63cb9b109e2d28/practica05-u20210309-Jordi
