@@ -1,0 +1,12 @@
+Práctica 08.
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+1. Descomprimir la carpeta "practica08-bd.zip".
+2. Acceder a phpMyAdmin y ejecutar el script que se encuentra en el archivo .txt de la carpeta extraída.
+3. Proceder a revisar los ejercicios:
+3.1. Ingresar en el navegador a la dirección "localhost/practica08-bd/mysqli_crud.php".
+3.2. Ingresar en el navegador a la dirección "localhost/practica08-bd/pdo_crud.php".
+
+URL de la carpeta en el repositorio de GitHub:
+https://github.com/Jordi2010/Practicas_WebII/tree/6904ce9c767657e1485dc30bfa11dbe98f6ca22a/practica06-u20210309-Jordi

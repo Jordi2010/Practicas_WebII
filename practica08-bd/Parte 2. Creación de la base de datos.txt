@@ -1,0 +1,16 @@
+Práctica 8
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+Parte 2: creación de la base de datos.
+Acceder a phpMyAdmin y ejecutar:
+
+CREATE DATABASE IF NOT EXISTS practica_php;
+USE practica_php;
+
+CREATE TABLE IF NOT EXISTS productos (
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	nombre VARCHAR(100) NOT NULL,
+	precio DECIMAL(10,2) NOT NULL,
+	stock INT DEFAULT 0
+);
