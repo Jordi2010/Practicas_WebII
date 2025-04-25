@@ -1,0 +1,16 @@
+/* Estilos adicionales */
+.btn-action {
+    margin-right: 5px;
+}
+
+#loading {
+    margin-top: 20px
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.edit-mode {
+    background-color: #fffde7;
+}

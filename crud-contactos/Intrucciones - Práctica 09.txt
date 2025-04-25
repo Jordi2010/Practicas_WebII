@@ -1,0 +1,11 @@
+Práctica 09.
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+1. Descomprimir la carpeta "crud-contactos.zip".
+2. Abrir la carpeta extraída en Visual Studio Code.
+3. Ingresar en el navegador a la dirección "localhost/crud-contactos".
+4. Proceder a revisar el ejercicio.
+
+URL de la carpeta en el repositorio de GitHub:
+https://github.com/Jordi2010/Practicas_WebII/tree/6904ce9c767657e1485dc30bfa11dbe98f6ca22a/practica06-u20210309-Jordi
