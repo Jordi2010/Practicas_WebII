@@ -1,0 +1,24 @@
+CREATE DATABASE mini_crud;
+USE mini_crud;
+
+CREATE TABLE categorias (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE productos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    precio DECIMAL(10,2) NOT NULL,
+    stock INT DEFAULT 0,
+    categoria_id INT,
+    FOREIGN KEY (categoria_id) REFERENCES categorias(id)
+);
+
+-- Datos de ejemplo
+INSERT INTO categorias (nombre) VALUES ('Electrónica'), ('Alimentos'), ('Ropa');
+
+INSERT INTO productos (nombre, precio, stock, categoria_id) VALUES
+('Smartphone', 299.99, 10, 1),
+('Galletas', 2.50, 50, 2),
+('Camiseta', 15.99, 20, 3);
