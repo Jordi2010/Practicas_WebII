@@ -8,4 +8,4 @@ Estudiante: Jordi Haziel Amaya Martínez.
 4. Proceder a revisar los ejercicios.
 
 URL de la carpeta en el repositorio de GitHub:
-https://github.com/Jordi2010/Practicas_WebII/tree/6904ce9c767657e1485dc30bfa11dbe98f6ca22a/practica-13
+https://github.com/Jordi2010/Practicas_WebII/tree/eb7573162a0389c2aab178255fdd5836b008ff42/practica-13
