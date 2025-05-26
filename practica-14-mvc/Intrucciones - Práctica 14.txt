@@ -1,0 +1,11 @@
+Práctica 14.
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+1. Descomprimir la carpeta "practica-14-mvc.zip".
+2. Abrir la carpeta extraída en Visual Studio Code.
+3. Ingresar en el navegador a la dirección "localhost/practica-14-mvc".
+4. Proceder a revisar los ejercicios.
+
+URL de la carpeta en el repositorio de GitHub:
+https://github.com/Jordi2010/Practicas_WebII/tree/01b5dc2756e87502e949247570ae7302fcc01564/practica-14

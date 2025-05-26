@@ -1,0 +1,18 @@
+CREATE DATABASE banco_mvc;
+USE banco_mvc;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    balance DECIMAL(10,2) DEFAULT 0.00
+);
+
+CREATE TABLE transactions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL,
+    amount DECIMAL(10,2) NOT NULL,
+    type ENUM('deposit', 'withdrawal', 'transfer') NOT NULL,
+    description VARCHAR(255),
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);
