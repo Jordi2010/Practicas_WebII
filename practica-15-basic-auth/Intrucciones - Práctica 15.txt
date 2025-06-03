@@ -1,0 +1,11 @@
+Práctica 15.
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+1. Descomprimir la carpeta "practica-15-basic-auth.zip".
+2. Abrir la carpeta extraída en Visual Studio Code.
+3. Ingresar en el navegador a la dirección "localhost/practica-15-basic-auth".
+4. Proceder a revisar los ejercicios.
+
+URL de la carpeta en el repositorio de GitHub:
+https://github.com/Jordi2010/Practicas_WebII/tree/9f328ab544d89ebc7f8a16d06d5c7c0207344e53/practica-15-basic-auth

@@ -1,0 +1,9 @@
+3. Analizar:
+• ¿Cómo funciona el token CSRF?
+Respuesta: se usa para asegurarse de que los formularios se envían desde el sitio indicado y no desde otro malicioso.
+
+• ¿Por qué es importante session_regenerate_id()?
+Respuesta: porque cambia el ID de sesión y evita que un hacker use una sesión robada.
+
+• ¿Qué pasa si eliminamos htmlspecialchars()?
+Respuesta: el sitio puede mostrar scripts maliciosos enviados por un atacante (riesgo de XSS).
