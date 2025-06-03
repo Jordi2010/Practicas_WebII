@@ -8,4 +8,4 @@ Estudiante: Jordi Haziel Amaya Martínez.
 4. Proceder a revisar los ejercicios.
 
 URL de la carpeta en el repositorio de GitHub:
-https://github.com/Jordi2010/Practicas_WebII/tree/9f328ab544d89ebc7f8a16d06d5c7c0207344e53/practica-15-basic-auth
+https://github.com/Jordi2010/Practicas_WebII/tree/e826104003efcc40d54573b3b1f41fad0c9d1780/practica-15-basic-auth
