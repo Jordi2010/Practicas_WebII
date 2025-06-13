@@ -1,0 +1,11 @@
+Práctica 16.
+Asignatura: Programación Web II (práctica).
+Estudiante: Jordi Haziel Amaya Martínez.
+
+1. Descomprimir la carpeta "practica-16.zip".
+2. Abrir la carpeta extraída en Visual Studio Code.
+3. Ingresar en el navegador a la dirección "localhost/practica-16".
+4. Proceder a revisar los ejercicios.
+
+URL de la carpeta en el repositorio de GitHub:
+https://github.com/Jordi2010/Practicas_WebII/tree/cfc60d4bd7dbf26e513f47f19bcf76708edb4e93/practica-16
